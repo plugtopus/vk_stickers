@@ -1,0 +1,26 @@
+.clear_fix.pv_photo_wrap .ui_scroll_content.clear_fix .govno {
+    position: absolute;
+    top: 83px;
+    right: 0px;
+}
+.emoji_tt_wrap {
+    width: 325px !important;
+}
+.emoji_tt_wrap  .emoji_list{
+    width: 312px !important;
+}
+.emoji_tabs_r_s {
+    margin-left: 275px !important;
+}
+.emoji_tabs_l_s {
+    margin-left: 70px !important;
+}
+.emoji_govno .emoji_sprite {
+    background-image: url(http://img01.bt.co.uk/s/assets/220118/images/ico_share.png);
+}
+.im-mess.im-mess_unread:not(.im-mess_light) {
+	background: #fff;
+}
+.im-mess.im-mess_selected+.im-mess:before, .im-mess.im-mess_unread+.im-mess:before {
+	background: #fff;
+}
